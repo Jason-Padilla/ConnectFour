@@ -15,4 +15,5 @@ A python game that I created for my ICS 32 class at UCI. It uses the console as 
 * Beginning of the game
 ![](images/screenshot-1.png)
 * End of the game
+
 ![](images/screenshot-2.png)
